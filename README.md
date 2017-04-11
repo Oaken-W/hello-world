@@ -1,3 +1,7 @@
 # hello-world
 First Repository
-This is Oaken and i will be working on Git Hub from today onwards!
+
+Hi Humans!
+
+Oaken here. Previously worked on C, C++, Linux and Matlab languages.
+And beginning from today, i will be working on Git Hub to understand it's framework. 
